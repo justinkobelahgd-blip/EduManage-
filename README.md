@@ -1,1 +1,1 @@
-https://edumanage-pro.netlify.app
+https://github.com/justinkobelahgd-blip/EduManage-
